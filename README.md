@@ -1,5 +1,11 @@
 <h1 align="center">yo 👋, I'm Jan</h1>
-<h3 align="center">A passionate frontend developer from Emmenbrücke</h3>
+<h3 align="center">A passionate frontend developer from Emmenbrücke (Lucerne)</h3>
+
+<ul>
+  <li>💻 Love frontend dev</li>
+  <li>📱 Mobile & web apps</li>
+  <li>⚙️ Angular, Ionic, Firebase</li>
+</ul>
 
 <p align="left">
 </p>
