@@ -2,9 +2,10 @@
 <h3 align="center">A passionate frontend developer from Lucerne</h3>
 
 <ul>
-  <li>💻 Love frontend dev</li>
   <li>📱 Mobile & web apps</li>
   <li>⚙️ Angular, Ionic, Firebase</li>
+  <li>💻 Typescript and JavaScript</li>
+  <li>🎨 Sympathiser of WebDesign</li>
 </ul>
 
 <p align="left">
