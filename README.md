@@ -1,5 +1,5 @@
-<h1 align="center">Yoo 👋, Im Jan</h1>
-<h3 align="center">passionate frontend developer from Switzerland</h3>
+<h1 align="center">Yoo 👋 Im Jan</h1>
+<h3 align="center">passionate developer from Switzerland</h3>
 
 <ul>
   <li>📱 Mobile & web apps</li>
