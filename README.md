@@ -1,5 +1,5 @@
 <h1 align="center">yo 👋, I'm Jan</h1>
-<h3 align="center">A passionate frontend developer from Lucerne</h3>
+<h3 align="center">passionate frontend developer from Lucerne</h3>
 
 <ul>
   <li>📱 Mobile & web apps</li>
