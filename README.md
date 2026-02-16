@@ -1,7 +1,8 @@
 <h1 align="center">Yoooo 👋</h1>
 
-## Ethnicity
+## Origin
 <img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Flag_of_Switzerland.svg" width="40" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/6/6f/Flag_of_Canton_of_Lucerne.svg" width="40" />
 
 
 <h3 align="left">Fav Languages and Tools:</h3>
