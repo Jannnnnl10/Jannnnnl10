@@ -2,7 +2,7 @@
 
 ## Ethnicity
 <img src="https://flagcdn.com/w40/ch.png" width="40" />
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Flag_of_Canton_of_Lucerne.svg/80px-Flag_of_Canton_of_Lucerne.svg.png" width="40" />
+
 
 
 <h3 align="left">Fav Languages and Tools:</h3>
