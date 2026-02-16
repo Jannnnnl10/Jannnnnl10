@@ -1,7 +1,7 @@
 <h1 align="center">Yoooo 👋</h1>
 
-## Origin
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Flag_of_Switzerland.svg/80px-Flag_of_Switzerland.svg.png" width="40" />
+## Ethnicity
+<img src="https://flagcdn.com/w40/ch.png" width="40" />
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Flag_of_Canton_of_Lucerne.svg/80px-Flag_of_Canton_of_Lucerne.svg.png" width="40" />
 
 
