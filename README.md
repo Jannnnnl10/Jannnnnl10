@@ -1,8 +1,8 @@
 <h1 align="center">Yoooo 👋</h1>
 
 ## Origin
-<img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Flag_of_Switzerland.svg" width="40" />
-<img src="https://upload.wikimedia.org/wikipedia/commons/6/6f/Flag_of_Canton_of_Lucerne.svg" width="40" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Flag_of_Switzerland.svg/80px-Flag_of_Switzerland.svg.png" width="40" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Flag_of_Canton_of_Lucerne.svg/80px-Flag_of_Canton_of_Lucerne.svg.png" width="40" />
 
 
 <h3 align="left">Fav Languages and Tools:</h3>
