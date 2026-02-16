@@ -1,5 +1,8 @@
 <h1 align="center">Yoooo 👋</h1>
 
+## Origin
+🇨🇭 Switzerland
+
 
 <h3 align="left">Fav Languages and Tools:</h3>
 <p align="center">
