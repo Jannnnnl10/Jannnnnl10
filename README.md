@@ -1,7 +1,7 @@
 <h1 align="center">Yoooo 👋</h1>
 
-## Origin
-🇨🇭 Switzerland
+## Ethnicity
+<img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Flag_of_Switzerland.svg" width="40" />
 
 
 <h3 align="left">Fav Languages and Tools:</h3>
